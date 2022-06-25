@@ -1,5 +1,5 @@
 # DeepGrid
-This is the official implementation of the architecture proposed in our paper titled "DeepGrid: A Surprisingly Deep Grid-shaped Network for Medical Image Segmentation".
+This is the official implementation of our paper titled "DeepGrid: A Surprisingly Deep Grid-shaped Network for Medical Image Segmentation".
 
 ## Initial setup:
 - Add the ISIC 2017 dataset root directory to the main directory and rename it to "ISIC_2017".

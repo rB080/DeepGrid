@@ -1,0 +1,10 @@
+torch
+torchvision
+matplotlib
+opencv-python
+scipy
+tqdm
+scikit-image
+tensorboard
+sklearn
+argparse

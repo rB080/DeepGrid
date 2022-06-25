@@ -1,7 +1,7 @@
 # DeepGrid
 This is the official implementation of our paper titled "DeepGrid: A Surprisingly Deep Grid-shaped Network for Medical Image Segmentation".
 
-![Alt text](../DeepGrid.drawio.pdf?raw=true "Model Architecture")
+![Alt text](DeepGrid.drawio.pdf?raw=true "Model Architecture")
 
 ## Dependencies:
 To install required dependencies, use the following command, preferably in a new virtual environment:
